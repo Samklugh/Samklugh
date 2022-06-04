@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **python, SQL, Power BI, Tableau**
 
 - 👯 I’m looking to collaborate on **Data engineering and machine learning projects**
-- ![I am Data Engineer and Analyst](https://github.com/Samklugh/Samklugh/blob/main/data%20engineering.jpg)
+
 
 <img align-"left" alt-"Coding" width-"400" src-"https://github.com/Samklugh/Samklugh/blob/main/data%20engineering.jpg">
 
