@@ -9,11 +9,11 @@
 - 👯 I’m looking to collaborate on **Data engineering and machine learning projects**
 
 
-<img align-"left" alt-"Coding" width-"400" src-"https://github.com/Samklugh/Samklugh/blob/main/data%20engineering.jpg">
+- ![I am Data Engineer and Analyst](https://github.com/Samklugh/Samklugh/blob/main/data%20engineering.jpg)
 
 - 💬 Ask me about **data engineering**
 
-- 📫 How to reach me **Samklugh360@gmail.com**
+- 📫 ##How to reach me **Samklugh360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
