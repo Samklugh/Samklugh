@@ -1,6 +1,6 @@
 - 👋 Hi, 
 
-I am Samson. I am a statistician, economist, evaluator, and a data engineer. I am passionate about making sense of dataset.
+I am Samson. I am a data engineer and statistician. I am passionate about making sense of dataset.
 
 ### Hi there 👋, My name is Samson
 #### I am Data Engineer and Analyst
