@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Samson</h1>
-<h3 align="center">A passionate Statistician, Impact Evaluator Data Analyst and Frontend Developer based in the UK</h3>
+<h3 align="center">A passionate Statistician, Impact Evaluator, Data Analyst, and Frontend Developer based in the UK</h3>
 
 - 🔭 I’m currently working on **Different Frontend Projects**
 
 - 🌱 I’m currently learning **python, REACT, HTML and CSS, SQL, Power BI, Tableau**
 
-- 👯 I’m looking to collaborate on **Data engineering and machine learning projects**
+- 👯 I’m looking to collaborate on **Frontend, Statistics, and Data Analysis Projects**
 
 
- ![I am Data Engineer and Analyst](https://github.com/Samklugh/Samklugh/blob/main/data%20engineering.jpg)
+ ![I am Frontend Developer and Analyst](https://github.com/Samklugh/Samklugh/blob/main/data%20engineering.jpg)
 
 💬 Ask me about **Statistics, Data Analysis, and Frontend Development**
 
