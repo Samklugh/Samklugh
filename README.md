@@ -79,26 +79,6 @@ com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="4
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samklugh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/YOUR_SO_ID" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="mailto:Samklugh360@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samklugh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
