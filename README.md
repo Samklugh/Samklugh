@@ -15,6 +15,20 @@
 
 📫 ##How to reach me **Samklugh360@gmail.com**
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samklugh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samson's GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samklugh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samklugh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://rahuldkjain.github.io/gh-profile-readme-generator/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://rahuldkjain.github.io/gh-profile-readme-generator/" height="30" width="40" /></a>
