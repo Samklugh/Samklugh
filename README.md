@@ -22,16 +22,16 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" hspace="8" /></a>
-  <a href="https://github.com/Samklugh" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" hspace="8" /></a>
-  <a href="https://x.com/" target="_blank"><img src="https://cdn.simpleicons.org/x/white" alt="X" width="48" height="48" hspace="8" /></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="48" height="48" hspace="8" /></a>
-  <a href="https://facebook.com/" target="_blank"><img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="48" height="48" hspace="8" /></a>
-  <a href="https://youtube.com/" target="_blank"><img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="48" height="48" hspace="8" /></a>
-  <a href="https://tiktok.com/" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" alt="TikTok" width="48" height="48" hspace="8" /></a>
-  <a href="https://discord.com/" target="_blank"><img src="https://cdn.simpleicons.org/discord" alt="Discord" width="48" height="48" hspace="8" /></a>
-  <a href="https://telegram.org/" target="_blank"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="48" height="48" hspace="8" /></a>
-  <a href="https://wa.me/" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="48" height="48" hspace="8" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Samklugh" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/" target="_blank"><img src="https://cdn.simpleicons.org/x/white" alt="X" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://facebook.com/" target="_blank"><img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/" target="_blank"><img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" alt="TikTok" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://discord.com/" target="_blank"><img src="https://cdn.simpleicons.org/discord" alt="Discord" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://telegram.org/" target="_blank"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="48" height="48" /></a>
 </p>
 
 ## 🛠️ Languages & Tools
