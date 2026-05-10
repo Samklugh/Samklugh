@@ -25,6 +25,33 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/Samklugh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/white" alt="X" height="48" width="48" />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="48" width="48" />
+  </a>
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="48" width="48" />
+  </a>
+  <a href="https://youtube.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" height="48" width="48" />
+  </a>
+  <a href="https://tiktok.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tiktok/white" alt="TikTok" height="48" width="48" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord" alt="Discord" height="48" width="48" />
+  </a>
+  <a href="https://telegram.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="48" width="48" />
+  </a>
+  <a href="https://wa.me/" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" height="48" width="48" />
+  </a>
 </p>
 
 ## 🛠️ Languages & Tools
