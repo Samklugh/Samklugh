@@ -22,36 +22,16 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
-  </a>
-  <a href="https://github.com/Samklugh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-  </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/white" alt="X" width="48" height="48" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="48" height="48" />
-  </a>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="48" height="48" />
-  </a>
-  <a href="https://youtube.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="48" height="48" />
-  </a>
-  <a href="https://tiktok.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/tiktok/white" alt="TikTok" width="48" height="48" />
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="48" height="48" />
-  </a>
-  <a href="https://telegram.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="48" height="48" />
-  </a>
-  <a href="https://wa.me/" target="_blank">
-    <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="48" height="48" />
-  </a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" /></a>
+  <a href="https://github.com/Samklugh" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>
+  <a href="https://x.com/" target="_blank"><img src="https://cdn.simpleicons.org/x/white" alt="X" width="48" height="48" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="48" height="48" /></a>
+  <a href="https://facebook.com/" target="_blank"><img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="48" height="48" /></a>
+  <a href="https://youtube.com/" target="_blank"><img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="48" height="48" /></a>
+  <a href="https://tiktok.com/" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" alt="TikTok" width="48" height="48" /></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://cdn.simpleicons.org/discord" alt="Discord" width="48" height="48" /></a>
+  <a href="https://telegram.org/" target="_blank"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="48" height="48" /></a>
+  <a href="https://wa.me/" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="48" height="48" /></a>
 </p>
 
 ## 🛠️ Languages & Tools
@@ -72,7 +52,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samklugh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Samson's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samklugh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Samson's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samklugh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 </p>
 
